@@ -2,6 +2,10 @@
 MemeShare is a meme sharing app that allows users to browse, share, and download memes. The app is built using Kotlin and leverages modern Android development practices, including the use of Android Jetpack components and Material Design.
 
 
+https://user-images.githubusercontent.com/83201276/231150603-eef43ca2-86c4-4e4a-8341-d83a80464600.mp4
+
+
+
 
 Features:
 
